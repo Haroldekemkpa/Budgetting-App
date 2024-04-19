@@ -1,0 +1,7 @@
+.red-focus:focus {
+  border: 0.1rem solid red;
+}
+
+.red {
+  background-color: red;
+}
